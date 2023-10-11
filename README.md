@@ -1,6 +1,5 @@
 
-
-<b>typical slogger<b/> 🦂<br />
+<b>Typical slogger<b/> 🦂<br />
 #
 - 🕷 [Telegram](https://t.me/qwmnip) <br />
 - 🕸 [Vk](https://vk.com/mmmmmmet) <br />
