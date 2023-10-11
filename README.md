@@ -1,5 +1,8 @@
-### Hi there 👋
-
+====================================================
+###🦂 typical slogger
+🕷 [Telegram](https://t.me/qwmnip) 
+🕸 [Vk](https://vk.com/mmmmmmet)
+====================================================
 <!--
 **Olfeit/Olfeit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
